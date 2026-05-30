@@ -22,16 +22,6 @@ It covers data ingestion, cleaning, querying, and visualization using **Python**
 
 ---
 
-## 🚀 How to Run (Google Colab)
-
-1. Go to [colab.research.google.com](https://colab.research.google.com)
-2. Click **File → Upload notebook** → select `car_prices_colab.ipynb`
-3. Run **Cell 1** — click the **"Choose Files"** button → upload `car_prices.csv`
-4. Click **Runtime → Run all** (or `Ctrl + F9`)
-5. All outputs, charts, and insights appear inline below each cell
-
----
-
 ## 📋 Tasks Covered
 
 ### Section 1 — Data Ingestion & Quality Profiling
@@ -90,9 +80,8 @@ It covers data ingestion, cleaning, querying, and visualization using **Python**
 
 ## 👤 Author
 
-**Name:** [Your Full Name]  
-**Student ID:** [Your Enrollment ID]  
-**Program:** [Your Program / Course]  
+**Name:** Gaurav Sharma  
+**Program:** CPDA B10 
 **Institution:** HeroVired Virtual Education  
 
 ---
