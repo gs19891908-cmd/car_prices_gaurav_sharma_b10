@@ -14,10 +14,10 @@ It covers data ingestion, cleaning, querying, and visualization using **Python**
 ## 📁 Repository Structure
 
 ```
-├── car_prices_colab.ipynb   # Main notebook (all tasks & visualizations)
-├── car_prices.csv           # Dataset — used car listings
-├── submission_link.docx     # Submission document with repo link
-└── README.md                # This file
+├── car_prices_GauravSharmaB10.ipynb   # Main notebook (all tasks & visualizations)
+├── car_prices.csv                     # Dataset — used car listings
+├── submission_link.docx               # Submission document with repo link
+└── README.md                          # This file
 ```
 
 ---
